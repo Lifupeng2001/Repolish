@@ -1,6 +1,6 @@
 # VDJ analysis
-##Just recording VDJ analysis learning\
-###随意记录，当今的VDJ生态主流软件并没有像转录组那么完整，就是想全面记录自己的学习过程与心得\
+Just recording VDJ analysis learning\  
+随意记录，当今的VDJ生态主流软件并没有像转录组那么完整，就是想全面记录自己的学习过程与心得\
 华大的下机fastq比对是通过TRUST4 软件进行，其比对结果文件网址说明文档：https://lishuangshuang0616.github.io/DNBelab_C_Series_HT_scRNA-analysis-software/Document/doc/outs/scVDJ.html 由李双双完成
 从结果文件到Immcantation生态需要部署环境，挺麻烦的，根据Chang-O官方教程会出很多问题，需要注意的是：（1）Igblast数据库的部署（2）重链轻链的重新注释（3）整合和拆分文件（4）克隆阈值的确定
 如果华大的下机fastq比对是由MIXCR软件进行就好了，流程上就能好很多，不知道是出于什么原因，可能需要对标10x，关于上述问题解决已经上传至code，持续更新中...\
