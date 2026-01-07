@@ -11,3 +11,6 @@ VDJ 学习综述：Adaptive immune receptor repertoire analysis[Nature Reviews M
 
 已经系统性学习：（1）scRepertoire(2)scirpy  这两款软件侧重点各有不同，都是基础分析，配合转录组把故事讲清楚就可以发一篇不错的文章。scRepertoire的画图十分好看，分析也比较多，但是现在还做不了体细胞高突变，但是已经慢慢的将Immcantation 加入里面了，scirpy做的内容比较浅、可视化呈现也没那么好，可与Dandelion接入 \
 下一步学习：（1）CONGA(正在学习)(2)Bennessi (3)Dandelion (4)Immcantion（体细胞高突变与类别重组转换部分） \
+
+
+https://github.com/slowkow/awesome-vdj VDJ主流学习工具
